@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 10 09:40:34 2021
 
-@author: Bigislem5
+@author: Osman VARIŞLI
 """
 import os
 import numpy as np
