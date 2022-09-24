@@ -1,4 +1,4 @@
-# parse dataset
+# Parse dataset
 A software that shreds the dataset for training testing and validation
 
 <h1> Usage </h1>
